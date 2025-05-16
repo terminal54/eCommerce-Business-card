@@ -1,0 +1,1 @@
+Its a nice business card specially for the eCommerce platform and affiliate marketing sector, It is simply designed with Html and CSS that acts & animating with cursor hover effect, In it rgba color applied here as well as a pseudo element before used to give it a nice animation at hover. It is easy to re-usable and customizable.thanks.
